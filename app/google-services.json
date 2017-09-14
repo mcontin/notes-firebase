@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "813782176137",
+    "firebase_url": "https://note-d5d16.firebaseio.com",
+    "project_id": "note-d5d16",
+    "storage_bucket": "note-d5d16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813782176137:android:2144ab3f676f50e0",
+        "android_client_info": {
+          "package_name": "continmattia.notefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813782176137-i97o59qtt1vv8h4l8ju5j73n72jp7dt7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "continmattia.notefirebase",
+            "certificate_hash": "4f530b94d5f4405f38432dcdc252f1f4eed6f04e"
+          }
+        },
+        {
+          "client_id": "813782176137-2g3b35tmitusv06rk8i2r93v3vb3n39n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkjKPMVsWDrLPukpiI_wdbq5bPbhwym54"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813782176137-2g3b35tmitusv06rk8i2r93v3vb3n39n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

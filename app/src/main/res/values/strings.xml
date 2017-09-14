@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NoteFirebase</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="error_login_cancelled">Errore di login</string>
+    <string name="error_no_network">Nessuna connessione</string>
+    <string name="error_unknown">Errore sconosciuto</string>
+    <string name="error_unknown_response">Risposta sconosciuta</string>
+</resources>
